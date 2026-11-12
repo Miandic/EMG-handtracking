@@ -1,0 +1,43 @@
+# Unity hand tracking module: generated folders and IDE project files.
+/handtracking/QuestHandStreamer/[Ll]ibrary/
+/handtracking/QuestHandStreamer/[Tt]emp/
+/handtracking/QuestHandStreamer/[Oo]bj/
+/handtracking/QuestHandStreamer/[Bb]uild/
+/handtracking/QuestHandStreamer/[Bb]uilds/
+/handtracking/QuestHandStreamer/[Ll]ogs/
+/handtracking/QuestHandStreamer/[Uu]ser[Ss]ettings/
+/handtracking/QuestHandStreamer/[Mm]emoryCaptures/
+/handtracking/QuestHandStreamer/[Rr]ecordings/
+/handtracking/QuestHandStreamer/.utmp/
+/handtracking/QuestHandStreamer/*.csproj
+/handtracking/QuestHandStreamer/*.sln
+/handtracking/QuestHandStreamer/*.slnx
+*.apk
+*.aab
+
+# Python caches and local environments, in any module.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Experimental recordings and converted exports: archive separately.
+recordings/
+quest-recordings/
+*.qhslog
+
+# Local editor and OS files.
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials; a documented example may be committed.
+.env
+.env.*
+!.env.example
